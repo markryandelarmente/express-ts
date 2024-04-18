@@ -1,0 +1,25 @@
+# etcs
+.DS_STORE
+.vscode
+
+# Dependency Dir
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Environment variables
+.env
+.env.development
+.env.production
+
+/logs
+/doc
